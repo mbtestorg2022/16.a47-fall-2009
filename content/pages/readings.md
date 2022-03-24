@@ -220,7 +220,7 @@ Hastings, Daniel. "The Future of Engineering Systems: Development of Engineering
 
 Sheffi, Yossi. "Geeks and Chiefs: Thoughts on Engineering Education at MIT." 6th Annual Charles L. Miller Lecture, Cambridge, MA, April 5, 2007.
 
-Duderstadt, James. "Engineering for a Changing World: A Road Map to the Future of Engineering Practice, Research, and Education." Ann Arbor, MI: University of Michigan, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.5MB](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/88644/2008_A_Roadmap_for_Engineering.pdf?sequence=1&isAllowed=y))
+Duderstadt, James. "Engineering for a Changing World: A Road Map to the Future of Engineering Practice, Research, and Education." Ann Arbor, MI: University of Michigan, 2007. ([PDF - 5.5MB](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/88644/2008_A_Roadmap_for_Engineering.pdf?sequence=1&isAllowed=y))
 
 Silbey, Susan. "[Developing Diverse Leadership for Engineering](http://web.mit.edu/ssilbey/www/diverse_leadership.html)."
 
